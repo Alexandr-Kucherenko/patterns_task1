@@ -38,6 +38,9 @@ out/
 *.zip
 *.tar.gz
 *.rar
+.appveyor.yml
+
+
 
 ### Exclusions ###
 !gradle/wrapper/gradle-wrapper.jar
